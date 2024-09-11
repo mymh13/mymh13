@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, databases and security
 - 🌱 I’m currently learning .NET and cloud services
 - 💞️ I’m looking to collaborate (with fellow students at YH for now, in the future, fun and challenging projects!)
-- 📫 How to reach me - send a message here, or via LinkedIN
+- 📫 How to reach me - send a message here, or via LinkedIn
 - 😄 Pronouns: plural? He/him then
 - ⚡ Fun fact: I used "mymh" as my internet nickname since pre-HTML days. Used to visit BBS's, Usenet, FTPs and play MUDs
 
